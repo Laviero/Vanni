@@ -1,2 +1,0 @@
-# vanni
-businesscard
